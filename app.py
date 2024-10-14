@@ -1,4 +1,4 @@
-# Description: Streamlit app for visualizing and summarizing PGN files.
+# Streamlit app for visualizing and summarizing PGN files.
 import streamlit as st
 import chess
 import chess.pgn
